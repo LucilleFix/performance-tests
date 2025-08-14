@@ -1,0 +1,14 @@
+venv/
+pycache/
+*.pyc
+*.pyo
+*.log
+.idea/
+.vscode/
+Dockerfile
+Dockerfile.example
+Dockerfile.redis
+docker_compose_basics.py
+docker_example.py
+main.py
+docker-compose.yaml
